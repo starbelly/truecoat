@@ -1,0 +1,9 @@
+{application,truecoat,
+             [{description,"It gets installed at the factory"},
+              {vsn,"0.3.5"},
+              {registered,[]},
+              {applications,[kernel,stdlib,shell]},
+              {env,[]},
+              {modules,[]},
+              {licenses,["Apache 2.0"]},
+              {links,[]}]}.

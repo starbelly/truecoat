@@ -1,6 +1,6 @@
 {application,truecoat,
              [{description,"It gets installed at the factory"},
-              {vsn,"0.4.19"},
+              {vsn,"0.4.20"},
               {registered,[]},
               {applications,[kernel,stdlib,shell]},
               {env,[]},
